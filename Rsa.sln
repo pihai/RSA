@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Rsa", "Rsa\Rsa.fsproj", "{3F6AE22C-45C5-475A-B145-A75AD582FE8B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.fsproj", "{E618CF84-BE39-4BC2-A323-DB57AB350F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F6AE22C-45C5-475A-B145-A75AD582FE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6AE22C-45C5-475A-B145-A75AD582FE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6AE22C-45C5-475A-B145-A75AD582FE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6AE22C-45C5-475A-B145-A75AD582FE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E618CF84-BE39-4BC2-A323-DB57AB350F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E618CF84-BE39-4BC2-A323-DB57AB350F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E618CF84-BE39-4BC2-A323-DB57AB350F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E618CF84-BE39-4BC2-A323-DB57AB350F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
